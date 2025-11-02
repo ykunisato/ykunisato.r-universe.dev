@@ -2,5 +2,11 @@
   {
     "package": "psyinfr",
     "url": "https://github.com/ykunisato/psyinfr"
+  },{
+    "package": "PanicModel",
+    "url": "jmbh/PanicModel"
+  },{
+    "package": "psynetsim",
+    "url": "TakumiOmizu/psynetsim"
   }
 ]
