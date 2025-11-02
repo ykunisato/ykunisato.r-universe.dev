@@ -8,5 +8,8 @@
   },{
     "package": "psynetsim",
     "url": "https://github.com/TakumiOmizu/psynetsim"
-  }
+  },{
+    "package": "jpaRmd",
+    "url": "https://github.com/ykunisato/jpaRmd"
+    }
 ]
