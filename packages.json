@@ -4,9 +4,9 @@
     "url": "https://github.com/ykunisato/psyinfr"
   },{
     "package": "PanicModel",
-    "url": "jmbh/PanicModel"
+    "url": "https://github.com/jmbh/PanicModel"
   },{
     "package": "psynetsim",
-    "url": "TakumiOmizu/psynetsim"
+    "url": "https://github.com/TakumiOmizu/psynetsim"
   }
 ]
